@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "383495482721",
+    "project_id": "fiction-challenge",
+    "storage_bucket": "fiction-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383495482721:android:9b277cb47efc22c39fe920",
+        "android_client_info": {
+          "package_name": "com.example.fiction_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383495482721-dig61b8hjs733dfgt6km7mkpe1ff4tn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fiction_challenge",
+            "certificate_hash": "00c81ddfb4837a89ac4910bb1334057563c1490c"
+          }
+        },
+        {
+          "client_id": "383495482721-qp3cr6qtabvvbrr5ka4hfispul49nq7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALKaOf3FkQAW600At_Hxeh-FoFoQjcl9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383495482721-qp3cr6qtabvvbrr5ka4hfispul49nq7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
